@@ -65,7 +65,7 @@ List<LibraryModelView> newList = [
                               child: Image.asset(newList[itemIndex]._image.toString(),height:300, width:300, fit: BoxFit.fill,),
                             ),
                             Padding(
-                              padding: const EdgeInsets.only(left:8.0, right:8, bottom:8),
+                              padding: const EdgeInsets.only(left:8.0, right:8, bottom:8,),
                               child: Row(
                                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                                 children: [
