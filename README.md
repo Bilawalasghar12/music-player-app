@@ -1,16 +1,11 @@
-# games
+# musicplayer
+
 
 A new Flutter project.
 
-## Getting Started
+## hello my name is bilawal, i have been learning flutter and this is my second ui design 
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot 2022-08-24 170257](https://user-images.githubusercontent.com/111349238/186855393-a01d2dcb-7fe9-4f75-92a9-e41f5e1e9b0a.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
