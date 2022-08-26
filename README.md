@@ -8,6 +8,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 ![Screenshot 2022-08-24 170257](https://user-images.githubusercontent.com/111349238/186855393-a01d2dcb-7fe9-4f75-92a9-e41f5e1e9b0a.png)
-![Screenshot 2022-08-24 170217](https://user-images.githubusercontent.com/111349238/186855599-f3ca6046-4795-46d4-96ce-19ae05605837.png)
+![Screenshot 2022-08-24 170217](https://user-images.githubusercontent.com/111349238/186859341-7747305f-a1d9-42b2-8495-b0e8bc6a8c12.png)
 
+<img src=" height="450" width="220">
 
